@@ -1,0 +1,2 @@
+Manifest_NonUFSFiles_Win64.txt filter=lfs diff=lfs merge=lfs -text
+Manifest_UFSFiles_Win64.txt filter=lfs diff=lfs merge=lfs -text
